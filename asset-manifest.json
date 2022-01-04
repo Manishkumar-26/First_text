@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Manishkumar-26/First_text.git/static/css/main.073c9b0a.css",
+    "main.js": "/Manishkumar-26/First_text.git/static/js/main.86e74c05.js",
+    "static/js/787.cfd8f164.chunk.js": "/Manishkumar-26/First_text.git/static/js/787.cfd8f164.chunk.js",
+    "index.html": "/Manishkumar-26/First_text.git/index.html",
+    "main.073c9b0a.css.map": "/Manishkumar-26/First_text.git/static/css/main.073c9b0a.css.map",
+    "main.86e74c05.js.map": "/Manishkumar-26/First_text.git/static/js/main.86e74c05.js.map",
+    "787.cfd8f164.chunk.js.map": "/Manishkumar-26/First_text.git/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.86e74c05.js"
+  ]
+}
